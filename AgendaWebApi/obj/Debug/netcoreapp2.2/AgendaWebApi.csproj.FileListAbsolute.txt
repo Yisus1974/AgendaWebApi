@@ -1,0 +1,14 @@
+C:\Personal\AgendaWebApi\AgendaWebApi\bin\Debug\netcoreapp2.2\AgendaWebApi.deps.json
+C:\Personal\AgendaWebApi\AgendaWebApi\bin\Debug\netcoreapp2.2\AgendaWebApi.runtimeconfig.json
+C:\Personal\AgendaWebApi\AgendaWebApi\bin\Debug\netcoreapp2.2\AgendaWebApi.runtimeconfig.dev.json
+C:\Personal\AgendaWebApi\AgendaWebApi\bin\Debug\netcoreapp2.2\AgendaWebApi.dll
+C:\Personal\AgendaWebApi\AgendaWebApi\bin\Debug\netcoreapp2.2\AgendaWebApi.pdb
+C:\Personal\AgendaWebApi\AgendaWebApi\obj\Debug\netcoreapp2.2\AgendaWebApi.csprojAssemblyReference.cache
+C:\Personal\AgendaWebApi\AgendaWebApi\obj\Debug\netcoreapp2.2\AgendaWebApi.csproj.CoreCompileInputs.cache
+C:\Personal\AgendaWebApi\AgendaWebApi\obj\Debug\netcoreapp2.2\AgendaWebApi.RazorAssemblyInfo.cache
+C:\Personal\AgendaWebApi\AgendaWebApi\obj\Debug\netcoreapp2.2\AgendaWebApi.RazorAssemblyInfo.cs
+C:\Personal\AgendaWebApi\AgendaWebApi\obj\Debug\netcoreapp2.2\AgendaWebApi.AssemblyInfoInputs.cache
+C:\Personal\AgendaWebApi\AgendaWebApi\obj\Debug\netcoreapp2.2\AgendaWebApi.AssemblyInfo.cs
+C:\Personal\AgendaWebApi\AgendaWebApi\obj\Debug\netcoreapp2.2\AgendaWebApi.RazorTargetAssemblyInfo.cache
+C:\Personal\AgendaWebApi\AgendaWebApi\obj\Debug\netcoreapp2.2\AgendaWebApi.dll
+C:\Personal\AgendaWebApi\AgendaWebApi\obj\Debug\netcoreapp2.2\AgendaWebApi.pdb
